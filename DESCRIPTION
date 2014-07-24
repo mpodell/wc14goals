@@ -1,0 +1,10 @@
+Package: wc14goals
+Type: Package
+Title: FIFA 2014 World Cup Finals in Brazil Goal Data
+Version: 1.0
+Date: 2014-07-24
+Author: Michael O'Dell
+Maintainer: Michael O'Dell <mp_odell@yahoo.com>
+Description: Includes data for each goal scored in the 2014 World Cup Finals
+License: No license
+Packaged: 2014-07-24 18:38:29 UTC; mpodell
